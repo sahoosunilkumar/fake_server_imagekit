@@ -1,0 +1,19 @@
+{
+"PROFILE.DEACTIVATE_ACCOUNT" : "DEACTIVATE ACCOUNT",
+"PROFILE.DELETE_ACCOUNT" : "DELETE ACCOUNT",
+"PROFILE.SURE_TO_DELETE" : "Are you sure you want to delete?",
+"PROFILE.DELETE_ACCOUNT_DESCRIPTION" : "This is an irreversible permanent action. You may not be able to log in again",
+"PROFILE.DELETE_ACCOUNT_SMALL" : "Delete account",
+"PROFILE.DEACTIVATE_ACCOUNT_SMALL" : "Deactivate account",
+"PROFILE.DEACTIVATE" : "Deactivate",
+"PROFILE.DELETE" : "Delete",
+"PROFILE.CANCEL" : "Cancel",
+"PROFILE.SUCCESS" : "success",
+"PROFILE.NEXT" : "Next",
+"PROFILE.DELETE_ACCOUNT_OTP_HEADER" : "One last step before you go",
+"PROFILE.DELETE_ACCOUNT_OTP_SUBHEADER" : "we just sent 4-digit code to your mobile",
+"PROFILE.DELETE_ACCOUNT_SUCCESS_TITLE" : "account deleted successfully",
+"PROFILE.DEACTIVATE_ACCOUNT_SUCCESS_TITLE" : "account deactivated successfully",
+"PROFILE.DEACTIVATE_ACCOUNT_SUCCESS_SUBTITLE" : "we're sorry to see you go but we hope you'll be back on slice soon! 👋",
+"PROFILE.DELETE_ACCOUNT_SUCCESS_SUBTITLE" : "We are sorry to see you go! You will receive the NOC on %@ in 5-7 days"
+}
