@@ -1,3 +1,6 @@
 {
-
+"PROFILE.SURE_TO_DELETE" : "DYNAMIC TEXT - Delete?",
+"PROFILE.DELETE_ACCOUNT_DESCRIPTION" : "DYNAMIC TEXT - You may not be able to log in again",
+"PROFILE.DELETE_ACCOUNT_SMALL" : "DYNAMIC TEXT - Delete account",
+"PROFILE.DEACTIVATE_ACCOUNT_SMALL" : "DYNAMIC TEXT - Deactivate account",
 }
