@@ -1,3 +1,5 @@
 {
-
+"PRICING.CARD_BOOKING_DELIVERY_FEE" : "Due fee for card booking",
+"PRICING.PRICING_BILL_PAYMENT_CHARGE" : "Charges that will be applied on card when paid in full by due date",
+"PRICING.PRICING_RECURRING_CHARGE" : "Annual or any other \nrecurring charges for the card"
 }
